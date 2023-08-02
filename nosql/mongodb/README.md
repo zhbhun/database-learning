@@ -2,6 +2,10 @@
 
 - [MongoDB 教程 - 菜鸟教程](https://blog.csdn.net/dongkeai/article/details/127330013)
 
+### 安装
+
+- [Mac OS](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/)
+
 ### 管理服务
 
 - Mac
