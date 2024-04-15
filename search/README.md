@@ -1,0 +1,6 @@
+- Elasticsearch
+- Apache Solr
+- Algolia
+- Apache Lucene
+- [MeiliSearch](A lightning-fast search API that fits effortlessly into your apps, websites, and workflow)
+- [typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
